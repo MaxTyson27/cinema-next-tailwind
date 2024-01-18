@@ -1,0 +1,14 @@
+headers fro kinopoisk api - X-API-KEY: "API_KEY"
+
+
+libs/store
+
+services
+
+components/ui/shared/screens
+
+hooks
+
+utils/config
+
+constants
