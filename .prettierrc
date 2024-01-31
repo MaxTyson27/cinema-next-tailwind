@@ -1,9 +1,12 @@
 {
-  "arrowParens": "avoid",
-  "trailingComma": "none",
-  "singleQuote": true,
-  "tabWidth": 2,
   "semi": true,
+  "trailingComma": "all",
+  "singleQuote": true,
+  "printWidth": 70,
+  "jsxSingleQuote": true,
+  "bracketSpacing": true,
+  "useTabs": false,
+  "arrowParens": "avoid",
   "importOrder": [
     "<THIRD_PARTY_MODULES>",
     "^@/store/(.*)$",
